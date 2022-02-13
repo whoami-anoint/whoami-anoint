@@ -54,14 +54,9 @@ While others are wishing.
 ❤🚀
 
 
-## Spotify Playing 🎧
+### Spotify Playing 🎧
 
-
-Playing: https://open.spotify.com/embed/track/6bbqBsbc2ttQPHWKV3uDV8?utm_source=generator
-(https://open.spotify.com/user/31qqqe24u44s3cehw24b2a35kdca?si=2daf638722474af1)
-
-
-<br>
+## https://open.spotify.com/track/6bbqBsbc2ttQPHWKV3uDV8
 
 ## ⭐️ From https://github.com/whoami-anoint
 
