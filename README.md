@@ -53,9 +53,11 @@ Visualize Your Dream,
 While others are wishing.
 ❤🚀
 
-<b>
-I do believe in "Not all readers are leader🥴
-But all leaders are reader.❤️👑
+ `I do believe in:`
+ <br>
+ <b>
+    "Not all readers are leader🥴
+But all leaders are reader."❤️👑
 </b>
 
 ### Spotify Playing 🎧
