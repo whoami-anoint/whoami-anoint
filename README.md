@@ -25,7 +25,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Machine Learning & **Python** 🐍 projects**.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Open CV**🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Me motivating myself* : **𝑫𝒓𝒆𝒂𝒎, 𝑫𝒂𝒓𝒆 𝒂𝒏𝒅 𝑫𝒐.♥️🏆️**
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** I *love* 💡 to manipulate *infosec and infotech stuffs* 😴
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** I *love* ❤️ to manipulate ***infosec and infotech stuffs***😝
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work.👨‍💻
 
 <a href="https://ibb.co/Z6Qk9gX"><img src="https://i.ibb.co/5WQfZj4/272687248-330477685650728-5447017393418702072-n.jpg" alt="272687248-330477685650728-5447017393418702072-n" border="0"></a>
