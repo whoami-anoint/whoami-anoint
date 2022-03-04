@@ -17,7 +17,9 @@
       <br>
   </em>  
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoami-anoint" alt="whoami-anoint" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoami-anoint" alt="whoami-anoint" /></a> 
+<p align="left"> <a href="https://twitter.com/whoami_anoint" target="blank"><img src="https://img.shields.io/twitter/follow/whoami_anoint?logo=twitter&style=for-the-badge" alt="whoami_anoint" /></a> </p>
+</p>
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
@@ -60,11 +62,11 @@ While others are wishing.
 But all leaders are reader."❤️👑
 </b>
 
-### Spotify Playing 🎧
-
-## https://open.spotify.com/track/6bbqBsbc2ttQPHWKV3uDV8
+### Spotify Playing 🎧                                                                                
+https://open.spotify.com/track/6bbqBsbc2ttQPHWKV3uDV8
 
 ## ⭐️ From https://github.com/whoami-anoint
 
-## Social Sites: https://www.facebook.com/anoint.02/
-
+## Social Sites: 
+<a href="https://fb.com/anoint.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anoint.02" height="30" width="40" /></a><a href="https://www.linkedin.com/in/whoami-anoint/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoami-anoint" height="30" width="40" /></a><a href="https://twitter.com/whoami_anoint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoami_anoint" height="30" width="40" /></a><a href="https://www.instagram.com/anoint.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anoint.02" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCF-JZlXnWeOn-W5pY88ptkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whoami_anoint" height="30" width="40" /></a>
+</p>
