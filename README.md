@@ -23,7 +23,7 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Currently learning **Data Science.**💪
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Currently learning ***Data Science***💪
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Machine Learning & **Python** 🐍 projects**.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Open CV**🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Me motivating myself* : **𝑫𝒓𝒆𝒂𝒎, 𝑫𝒂𝒓𝒆 𝒂𝒏𝒅 𝑫𝒐.♥️🏆️**
