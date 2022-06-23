@@ -1,4 +1,4 @@
-# Abhishek Kafle **(Anoint)**
+# Abhishek Kafle **(Anoint)**<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="60">
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
@@ -18,13 +18,13 @@
 </p>
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="2px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="0.2px" /> Currently learning ***Data Science***💪
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="0.2px" /> I’m *looking to collaborate* on **Machine Learning & **Python** 🐍 projects**.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="0.2px" /> I Love **Machine Learning** and **Open CV**🌐
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20px" /> *Me motivating myself* : **𝑫𝒓𝒆𝒂𝒎, 𝑫𝒂𝒓𝒆 𝒂𝒏𝒅 𝑫𝒐.♥️🏆️**
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** I *love* ❤️ to manipulate ***infosec and infotech stuffs***😝
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work.👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="30" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="30" /> Currently learning ***Data Science***💪
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="30" /> I’m *looking to collaborate* on **Machine Learning & **Python** 🐍 projects**.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="30" /> I Love **Machine Learning** and **Open CV**🌐
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="30" /> *Me motivating myself* : **𝑫𝒓𝒆𝒂𝒎, 𝑫𝒂𝒓𝒆 𝒂𝒏𝒅 𝑫𝒐.♥️🏆️**
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="30" /> **Fun fact:** I *love* ❤️ to manipulate ***infosec and infotech stuffs***😝
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="30" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work.👨‍💻
 
 <a href="https://ibb.co/Z6Qk9gX"><img src="https://i.ibb.co/5WQfZj4/272687248-330477685650728-5447017393418702072-n.jpg" alt="272687248-330477685650728-5447017393418702072-n" border="0"></a>
 
