@@ -59,8 +59,8 @@ But all leaders are reader."❤️👑
 </b>
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-### Spotify Playing 🎧                                                                                
-[![Watch the video](https://i.ytimg.com/an_webp/C5gvvrj6LqI/mqdefault_6s.webp?du=3000&sqp=COy9xZcG&rs=AOn4CLA_S6UjPW4vZpKzf1hX3iUbocb7Sg)](https://www.youtube.com/watch?v=biufV1olDes)
+### Music Playing 🎧                                                                                
+[![Watch the video](https://i.ytimg.com/an_webp/biufV1olDes/mqdefault_6s.webp?du=3000&sqp=CN26xZcG&rs=AOn4CLAPkMLoYG2KytY83kiblPlwIIuSxw)](https://www.youtube.com/watch?v=biufV1olDes)
 
 
 ## ⭐️ From https://github.com/whoami-anoint
