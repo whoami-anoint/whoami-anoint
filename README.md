@@ -58,11 +58,10 @@ While others are wishing.
 But all leaders are reader."❤️👑
 </b>
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-### Music Playing 🎧
-
+### **Music Playing** 🎧
 https://user-images.githubusercontent.com/72187543/183506993-72aaecae-1340-4f95-87c0-46c4686691d2.mp4
 
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 ## ⭐️ From https://github.com/whoami-anoint
 
