@@ -59,11 +59,13 @@ But all leaders are reader."❤️👑
 </b>
 
 ### **Music Playing** 🎧
-https://user-images.githubusercontent.com/72187543/183506993-72aaecae-1340-4f95-87c0-46c4686691d2.mp4
+
+https://user-images.githubusercontent.com/72187543/183508872-d0d589b3-2e93-4da4-93ba-7fbaa2b091f6.mp4
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 ## ⭐️ From https://github.com/whoami-anoint
+
 
 ## Social Sites: 
 <a href="https://fb.com/anoint.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anoint.02" height="30" width="40" /></a><a href="https://www.linkedin.com/in/whoami-anoint/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoami-anoint" height="30" width="40" /></a><a href="https://twitter.com/whoami_anoint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoami_anoint" height="30" width="40" /></a><a href="https://www.instagram.com/anoint.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anoint.02" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCF-JZlXnWeOn-W5pY88ptkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whoami_anoint" height="30" width="40" /></a>
