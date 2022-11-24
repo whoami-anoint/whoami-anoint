@@ -1,16 +1,11 @@
-# Abhishek Kafle **(Anoint)**<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="60">
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
--->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8DF77B&background=FF197700&width=435&lines=Abhishek+Kafle;Anoint)](https://git.io/typing-svg)
 <p>
   <em>
     [Lover of Bash]🤤♥️
 |Alpha-Geek|Infosec Poet✍️|Learner|💻
 "Wisdom begins in wonder"❤️
       <br>
-    2 Decades + of living a comical life! 
-      <br>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=15&duration=5024&pause=996&color=F70CF2&background=FF197700&width=435&lines=2+Decades+%2B+of+living+a+comical+life!+" alt="Typing SVG" /></a>
   </em>  
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoami-anoint" alt="whoami-anoint" /></a> 
@@ -71,3 +66,5 @@ https://user-images.githubusercontent.com/72187543/183508872-d0d589b3-2e93-4da4-
 <a href="https://fb.com/anoint.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anoint.02" height="30" width="40" /></a><a href="https://www.linkedin.com/in/whoami-anoint/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoami-anoint" height="30" width="40" /></a><a href="https://twitter.com/whoami_anoint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoami_anoint" height="30" width="40" /></a><a href="https://www.instagram.com/anoint.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anoint.02" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCF-JZlXnWeOn-W5pY88ptkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whoami_anoint" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/whoami_anoint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er" height="30" width="40" /></a>
 </p>
+
+
