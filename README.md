@@ -5,7 +5,7 @@
 |Alpha-Geek|Infosec Poet✍️|Learner|💻
 "Wisdom begins in wonder"❤️
       <br>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=15&duration=5024&pause=996&color=F70CF2&background=FF197700&width=435&lines=2+Decades+%2B+of+living+a+comical+life!+" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=15&duration=5024&pause=996&color=F70CF2&background=FF197700&width=435&lines=2+Decades+%2B+of+living+a+comical+life!!+" alt="Typing SVG" /></a>
   </em>  
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoami-anoint" alt="whoami-anoint" /></a> 
