@@ -57,12 +57,8 @@ While others are wishing.
     "Not all readers are leader🥴
 But all leaders are reader."❤️👑
 </b>
-
-### **Music Playing** 🎧
-
-https://user-images.githubusercontent.com/72187543/183508872-d0d589b3-2e93-4da4-93ba-7fbaa2b091f6.mp4
-
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+  
+# Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 ## ⭐️ From https://github.com/whoami-anoint
 
