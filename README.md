@@ -14,7 +14,7 @@
 </p>
 <br>
 
-🕵️‍♂️ I am currently a <strong>student of cyber forensics</strong>, but I am also a <strong>cybersecurity learner</strong> with aspirations to become an enthusiast in the field soon. I'm currently working on various projects related to cybersecurity and building them to find the flaws and vulnerabilities in it as a security researcher. I'm also interested in <strong>penetration testing</strong> and <strong>bug hunting</strong>.
+🕵️‍♂️ I am currently a <strong>cybersecurity learner</strong> with aspirations to become an enthusiast in the field soon. I'm currently working on various projects related to cybersecurity and building them to find the flaws and vulnerabilities in it as a security researcher. I'm also interested in <strong>penetration testing</strong> and <strong>bug hunting</strong>.
 
 🔎 My current focus is on <strong>cybersecurity</strong> and I am constantly working to improve my skills in this area.
 
