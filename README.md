@@ -36,41 +36,39 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whoami-anoint&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-**My motivational Quote** : ✍️
+### **My motivational Quote** : ✍️
 
-Make recipe for your success,
+Make recipe for your success, 🧑‍🍳
 <br>
-Prepare yourself for competitive race,
+Prepare yourself for competitive race, 🐎
 <br>
-Focus on your study,
+Focus on your study, 👨‍🎓
 <br>
-While other are sleeping,
+While other are sleeping, 🛌
 <br>
-Busy in your work,
+Busy in your work, 🧑‍💻
 <br>
-While others are loafing,
+While others are loafing, 😴
 <br>
-Compose yourself,
+Compose yourself, 🖋️
 <br>
-While others are playing,
+While others are playing, 🤾‍♂️
 <br>
-Visualize Your Dream,
+Visualize Your Dream, ✨
 <br>
-While others are wishing.
-❤🚀
+While others are wishing. 🤎🚀
 
-* I do believe in:
- <b>
-    "Not all readers are leader🥴
+### I do believe in:
+"Not all readers are leader 📚
 But all leaders are reader."❤️👑
 </b>
   
-# Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-## ⭐️ From https://github.com/whoami-anoint
+### ⭐️ From https://github.com/whoami-anoint
 
 
-## Social Sites: 
+### Social Sites: 
 <a href="https://fb.com/anoint.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anoint.02" height="30" width="40" /></a><a href="https://www.linkedin.com/in/whoami-anoint/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoami-anoint" height="30" width="40" /></a><a href="https://twitter.com/whoami_anoint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoami_anoint" height="30" width="40" /></a><a href="https://www.instagram.com/anoint.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anoint.02" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCF-JZlXnWeOn-W5pY88ptkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whoami_anoint" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/whoami_anoint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er" height="30" width="40" /></a>
 </p>
