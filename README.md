@@ -55,7 +55,7 @@ Compose yourself, 🖋️
 While others are playing, 🤾‍♂️
 <br>
 Visualize Your Dream, ✨
-<br>
+<br />
 While others are wishing. 🤎🚀
 
 ### I do believe in:
