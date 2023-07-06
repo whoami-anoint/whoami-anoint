@@ -34,8 +34,7 @@
 <br/>
   
 ### :fire: My Stats :  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whoami-anoint&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=whoami-anoint&theme=dark)](https://git.io/streak-stats)
 
 ### **My motivational Quote** : ✍️
 
