@@ -14,7 +14,6 @@
 <a href="https://ibb.co/nnY6Fk4"><img src="https://i.ibb.co/txvQ9Cn/263729697-4718576474918717-1616219036209815527-n.png" alt="263729697-4718576474918717-1616219036209815527-n" border="0"></a>
 
 ### 👨‍💻: About Me :
-
 🕵️‍♂️ I am currently a <strong>cybersecurity learner</strong> with aspirations to become an enthusiast in the field soon. I'm currently working on various projects related to cybersecurity and building them to find the flaws and vulnerabilities in it as a security researcher. I'm also interested in <strong>penetration testing</strong> and <strong>bug hunting</strong>.
 
 🔎 My current focus is on <strong>cybersecurity</strong> and I am constantly working to improve my skills in this area.
