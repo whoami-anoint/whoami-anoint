@@ -12,7 +12,8 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=15&duration=5024&pause=996&color=F70CF2&background=FF197700&width=435&lines=2+Decades+%2B+of+living+a+comical+life!!+" alt="Typing SVG" /></a>
   </em>  
 </p>
-<a href="https://ibb.co/nnY6Fk4"><img src="https://i.ibb.co/txvQ9Cn/263729697-4718576474918717-1616219036209815527-n.png" alt="263729697-4718576474918717-1616219036209815527-n" border="0"></a>
+
+![image](https://github.com/whoami-anoint/whoami-anoint/assets/72187543/f8493310-6be1-4652-9935-fa6f3b8e9d5c)
 
 ### 👨‍💻: About Me :
 🕵️‍♂️ I am currently a <strong>cybersecurity learner</strong> with aspirations to become an enthusiast in the field soon. I'm currently working on various projects related to cybersecurity and building them to find the flaws and vulnerabilities in it as a security researcher. I'm also interested in <strong>penetration testing</strong> and <strong>bug hunting</strong>.
