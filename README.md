@@ -37,6 +37,14 @@
 ### :fire: My Stats :  
 [![GitHub Streak](https://streak-stats.demolab.com?user=whoami-anoint&theme=dark)](https://git.io/streak-stats)
 
+<div align="center">
+  <a href="https://github.com/whoami-anoint">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoami-anoint&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoami-anoint&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=whoami-anoint&theme=material&radius=10" />
+  </a>
+</div>
+
 ### **My motivational Quote** : ✍️
 
 Make recipe for your success, 🧑‍🍳
@@ -63,7 +71,7 @@ While others are wishing. 🤎🚀
 "Not all readers are leader 📚
 But all leaders are reader."❤️👑
 </b>
-  
+
 ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 ### ⭐️ From https://github.com/whoami-anoint
