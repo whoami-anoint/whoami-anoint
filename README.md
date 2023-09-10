@@ -17,15 +17,15 @@
 
 ### 👨‍💻: About Me :
 
-🔧💻 I'm **a DevOps Engineer**, always tinkering with tech.\
-🚀🛡️ On a mission to be a top-notch **DevSecOps pro**.\
-🔒🤖 Loving all things **cybersecurity and automation**.\
+🔧💻 I'm **a DevOps Engineer**, always exploring with tech.\
+🚀🛡️ On a mission to excel in **DevSecOps**.\
+🔒🤖 Passionate about **cybersecurity and automation**.\
 💻🚀 Digging into coding, deployment, and making things work.\
-🕵️‍♂️🔨 Up for exciting projects like hacking tests and tool-building.\
+🕵️‍♂️🔨 Eager to tackle exciting projects, like security tests and tool development.\
 🎮🌐 Even my free time is a playground for **infosec and infotech**.\
-✍️📚 Proudly **an Infosec Poet**, crafting words in the digital realm.\
-🚀🛡️👾 Let's team up, learn, and create cool tech stuff together!\
-🌟 I am constantly working to improve myself and my skills, always pushing to **dream, dare and do**.
+✍️📚 Proudly **an Infosec Poet**, I write poems on tech and cybersecurity.\
+ 🌟  I am constantly working to improve myself and my skills, always pushing to **dream, dare and do**.\
+🚀🛡️👾 Let's team up,learn, and create cool tech stuff together!\
 
 
 🛡️ Please feel free to browse through my <a href="https://github.com/whoami-anoint?tab=repositories">repositories</a> and leave a <strong>STAR<strong>⭐️ if you like my work.
