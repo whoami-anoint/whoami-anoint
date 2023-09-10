@@ -16,17 +16,17 @@
 ![image](https://github.com/whoami-anoint/whoami-anoint/assets/72187543/f8493310-6be1-4652-9935-fa6f3b8e9d5c)
 
 ### 👨‍💻: About Me :
-🕵️‍♂️ I am currently a <strong>cybersecurity learner</strong> with aspirations to become an enthusiast in the field soon. I'm currently working on various projects related to cybersecurity and building them to find the flaws and vulnerabilities in it as a security researcher. I'm also interested in <strong>penetration testing</strong> and <strong>bug hunting</strong>.
 
-🔎 My current focus is on <strong>cybersecurity</strong> and I am constantly working to improve my skills in this area.
+🔧💻 I'm **a DevOps Engineer**, always tinkering with tech.\
+🚀🛡️ On a mission to be a top-notch **DevSecOps pro**.\
+🔒🤖 Loving all things **cybersecurity and automation**.\
+💻🚀 Digging into **coding, deployment, and making things work.\
+🕵️‍♂️🔨 Up for exciting projects like hacking tests and tool-building.\
+🎮🌐 Even my free time is a playground for **infosec and infotech**.\
+✍️📚 Proudly **an Infosec Poet**, crafting words in the digital realm.\
+🚀🛡️👾 Let's team up, learn, and create cool tech stuff together!\
+🌟 I am constantly working to improve myself and my skills, always pushing to **dream, dare and do**.
 
-🔒 I am always open to collaborate on projects related to <strong> cybersecurity</strong>,<strong>penetration testing </strong>and <strong> bug hunting </strong>. If you have a project in mind, feel free to reach out to me!
-
-💻 I have a strong passion for <strong>cybersecurity</strong> and enjoy experimenting with new techniques and tools in this field.
-
-🚀 I am constantly working to improve myself and my skills, always pushing to <strong> dream, dare and do</strong>.
-
-🔑 As a fun fact, I also enjoy working with <strong>infosec and infotech </strong>stuffs in my free time.
 
 🛡️ Please feel free to browse through my <a href="https://github.com/whoami-anoint?tab=repositories">repositories</a> and leave a <strong>STAR<strong>⭐️ if you like my work.
 
