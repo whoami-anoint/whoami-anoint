@@ -45,6 +45,9 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
     </a>
+    <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="40" height="40"/>
+    </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
@@ -69,8 +72,12 @@
     <a href="https://nmap.org" target="_blank" rel="noreferrer">
         <img src="https://nmap.org/images/nmap-project-logo.png" alt="nmap" width="40" height="40"/>
     </a>
+    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="40" height="40"/>
+    </a>
 </p>
 <br/>
+
   
 ### :fire: My Stats :  
 [![GitHub Streak](https://streak-stats.demolab.com?user=whoami-anoint&theme=dark)](https://git.io/streak-stats)
