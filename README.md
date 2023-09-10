@@ -20,7 +20,7 @@
 🔧💻 I'm **a DevOps Engineer**, always tinkering with tech.\
 🚀🛡️ On a mission to be a top-notch **DevSecOps pro**.\
 🔒🤖 Loving all things **cybersecurity and automation**.\
-💻🚀 Digging into **coding, deployment, and making things work.\
+💻🚀 Digging into coding, deployment, and making things work.\
 🕵️‍♂️🔨 Up for exciting projects like hacking tests and tool-building.\
 🎮🌐 Even my free time is a playground for **infosec and infotech**.\
 ✍️📚 Proudly **an Infosec Poet**, crafting words in the digital realm.\
