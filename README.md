@@ -33,7 +33,7 @@
 
  🌟  I am constantly working to improve myself and my skills, always pushing to **dream, dare and do**.
  
-🚀🛡️👾 Let's team up,learn, and create cool tech stuff together!
+🚀🛡️👾 Let's team up, learn, and create cool tech stuff together!
 
 🛡️ Please feel free to browse through my <a href="https://github.com/whoami-anoint?tab=repositories">repositories</a> and leave a <strong>STAR<strong>⭐️ if you like my work.
 
