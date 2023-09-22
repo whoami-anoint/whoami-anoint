@@ -92,7 +92,7 @@
 
 ### **My motivational Quote** : ✍️
 
-Make recipe for your success, 🧑‍🍳
+Make [recipe](https://www.notion.so/anoint/0180ab99746c48708788c68177d1ffdd?v=f3585454c5e646989e39074e75af24d8) for your success, 🧑‍🍳
 <br>
 Prepare yourself for competitive race, 🐎
 <br>
