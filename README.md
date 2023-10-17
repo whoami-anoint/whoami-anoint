@@ -86,7 +86,6 @@
   <a href="https://github.com/whoami-anoint">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoami-anoint&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoami-anoint&langs_count=10&layout=compact&hide=html,css,powershell,jupyter%20notebook&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
-    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=whoami-anoint&theme=material&radius=10" />
   </a>
 </div>
 
